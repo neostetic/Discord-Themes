@@ -8,6 +8,7 @@
 ### working on
 - firend list color
 - easy customization
+- channels hover transition
 - <s>changing colors</s>
 - <s>custom Discord Title</s>
 
