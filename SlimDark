@@ -1,0 +1,172 @@
+/**
+ * @name SlimDarkMode
+ * @description Custom Dark Mode Theme
+ * @author neostetic
+ * @version 1.0
+ * @authorId 289846050473377792
+ * @invite ZapnwxRxhV
+ * @donate https://www.paypal.me/MircoWittrien
+ * @website https://neostetic.github.io/
+ * @source https://github.com/neostetic/Discord-Themes
+ * @updateUrl ...
+ */
+ __   __     ______     ______     ______     ______   ______     ______   __     ______    
+/\ "-.\ \   /\  ___\   /\  __ \   /\  ___\   /\__  _\ /\  ___\   /\__  _\ /\ \   /\  ___\   
+\ \ \-.  \  \ \  __\   \ \ \/\ \  \ \___  \  \/_/\ \/ \ \  __\   \/_/\ \/ \ \ \  \ \ \____  
+ \ \_\\"\_\  \ \_____\  \ \_____\  \/\_____\    \ \_\  \ \_____\    \ \_\  \ \_\  \ \_____\ 
+  \/_/ \/_/   \/_____/   \/_____/   \/_____/     \/_/   \/_____/     \/_/   \/_/   \/_____/ 
+                                                                                            
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+:root {
+	--channels-default: rgba(255, 255, 255, .5);
+	--da-background: transparent;
+	--da-hover: rgba(255, 255, 255, .05);
+	--text-muted: #f1f1f1;
+	--transparent: #151515;
+	--background-secondary-alt: transparent;
+	--background-primary: transparent;
+	--background-secondary: transparent;
+	--background-tertiary: var(--transparent);
+	--channeltextarea-background: rgba(255, 255, 255, .04);
+	--scrollbar-auto-track: transparent;
+	--scrollbar-auto-thumb: var(--da-hover);
+	--scrollbar-thin-thumb: var(--da-hover);
+	--text-normal: rgba(255, 255, 255, .67);
+	--background-floating: #121212;
+	--background-accent: rgba(255, 255, 255, .2);
+	--elevation-low: none;
+}
+
+* {
+	font-family: 'Cabin', sans-serif;
+	border-radius: 0;
+	box-shadow: rgba(0, 0, 0, 0);
+}
+
+svg {
+	transition: .2s ease;
+}
+
+.icon-1DeIlz {
+	color: #f1f1f1;
+	background-color: #121212;
+	border: 1px solid var(--text-muted);
+	padding: 2px;
+	border-radius: 5px;
+	width: 14px;
+	height: 14px;
+}
+
+.layout-2DM8Md {
+	width: 100%;
+	transition: .2s ease;
+}
+
+.wrapper-3NnKdC {
+	width: 80px;
+}
+
+.item-2hkk8m {
+	background-color: transparent;
+}
+
+.listItem-GuPuDH,
+.wrapper-sa6paO {
+	margin: 0 0 7px 10px;
+	padding: 2px;
+}
+
+.winButton-iRh8-Z {}
+
+.winButton-iRh8-Z>svg {
+	color: transparent;
+	background-color: var(--background-accent);
+	margin: 7px;
+	width: 8px;
+	height: 8px;
+	border-radius: 5px;
+	transition: .2s ease;
+}
+
+.winButton-iRh8-Z:hover>svg {
+	background-color: var(--text-muted);
+	color: transparent;
+}
+
+.modeSelected-346R90 .icon-1DeIlz,
+.modeSelected-346R90:hover .icon-1DeIlz,
+.modeUnread-1qO3K1 .icon-1DeIlz,
+.modeUnread-1qO3K1:hover .icon-1DeIlz {
+	color: #121212;
+	background-color: #f1f1f1;
+	border: 1px solid var(--text-muted);
+	border-radius: 5px;
+}
+
+.childWrapper-anI2G9,
+.wrapper-1BJsBx {
+	background-color: transparent;
+}
+
+.markup-2BOw-j code,
+.scrollbarGhostHairline-1mSOM1 {
+	border: 1px solid var(--background-accent);
+}
+
+.folder-items-3902423779 {
+	margin: 10px;
+}
+
+.name-23GUGE {
+	font-size: 12px;
+}
+
+.sidebar-2K8pFh {
+	width: 320px;
+}
+
+.members-1998pB,
+.members-1998pB>div,
+.app-2rEoOp {
+	background-color: var(--da-background);
+	color: white;
+}
+
+.container-3w7J-x {
+	margin: 0 1.5em;
+}
+
+.container-3baos1 {
+	margin: 1em;
+	transition: .2s ease;
+	border-radius: 10px;
+	background-color: transparent;
+}
+
+.container-3baos1:hover {
+	background-color: var(--da-hover);
+}
+
+.scrollableContainer-2NUZem {
+	transition: .2s ease;
+}
+
+.scrollableContainer-2NUZem:hover,
+.webkit-HjD9Er:hover {
+	background-color: rgba(255, 255, 255, .1);
+}
+
+.scrollerInner-2YIMLh,
+.container-1giJp5 {
+	margin: 1.5em;
+}
+
+.bd-addon-card,
+.settings-closed {
+	border: 2px solid var(--channels-default);
+}
+
+.content-1Wq3SX {
+	transition: .2s ease;
+}
