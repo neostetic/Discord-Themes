@@ -6,6 +6,7 @@
 
 
 ### working on
+- firend list color
 - easy customization
 - <s>changing colors</s>
 - <s>custom Discord Title</s>
