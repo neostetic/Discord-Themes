@@ -9,13 +9,16 @@
  * @website https://neostetic.github.io/
  * @source https://github.com/neostetic/Discord-Themes
  * @updateUrl https://raw.githubusercontent.com/neostetic/Discord-Themes/b21db39771cc45e4cea9b1e867f4ab061b4cb77c/SlimDark.theme.css
- */
+*/
+
+/*
  __   __     ______     ______     ______     ______   ______     ______   __     ______    
 /\ "-.\ \   /\  ___\   /\  __ \   /\  ___\   /\__  _\ /\  ___\   /\__  _\ /\ \   /\  ___\   
 \ \ \-.  \  \ \  __\   \ \ \/\ \  \ \___  \  \/_/\ \/ \ \  __\   \/_/\ \/ \ \ \  \ \ \____  
  \ \_\\"\_\  \ \_____\  \ \_____\  \/\_____\    \ \_\  \ \_____\    \ \_\  \ \_\  \ \_____\ 
   \/_/ \/_/   \/_____/   \/_____/   \/_____/     \/_/   \/_____/     \/_/   \/_/   \/_____/ 
                                                                                             
+*/
 
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 :root {
