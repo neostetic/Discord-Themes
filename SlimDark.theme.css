@@ -2,7 +2,7 @@
  * @name SlimDark
  * @description Custom Dark Mode Theme
  * @author neostetic
- * @version 1.1
+ * @version 1.2
  * @authorId 289846050473377792
  * @invite https://discord.gg/ES5dFQARav
  * @donate https://www.paypal.me/neostetic
@@ -51,7 +51,7 @@
 	position: relative
 }
 
-.peopleList-3c4jOR, .theme-dark, .container-1D34oG{
+.peopleList-3c4jOR, .container-1D34oG, .container-1D34oG, .nowPlayingColumn-2sl4cE, .container-1r6BKw.themed-ANHk51{
 	background: var(--transparent);
 }
 
