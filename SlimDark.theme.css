@@ -1,25 +1,3 @@
-/**
- * @name SlimDarkMode
- * @description Custom Dark Mode Theme
- * @author neostetic
- * @version 1.0
- * @authorId 289846050473377792
- * @invite ZapnwxRxhV
- * @donate https://www.paypal.me/neostetic
- * @website https://github.com/neostetic
- * @source https://github.com/neostetic/Discord-Themes
- * @updateUrl https://raw.githubusercontent.com/neostetic/Discord-Themes/b21db39771cc45e4cea9b1e867f4ab061b4cb77c/SlimDark.theme.css
-*/
-
-/*
- __   __     ______     ______     ______     ______   ______     ______   __     ______    
-/\ "-.\ \   /\  ___\   /\  __ \   /\  ___\   /\__  _\ /\  ___\   /\__  _\ /\ \   /\  ___\   
-\ \ \-.  \  \ \  __\   \ \ \/\ \  \ \___  \  \/_/\ \/ \ \  __\   \/_/\ \/ \ \ \  \ \ \____  
- \ \_\\"\_\  \ \_____\  \ \_____\  \/\_____\    \ \_\  \ \_____\    \ \_\  \ \_\  \ \_____\ 
-  \/_/ \/_/   \/_____/   \/_____/   \/_____/     \/_/   \/_____/     \/_/   \/_/   \/_____/ 
-                                                                                            
-*/
-
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 :root {
 	--channels-default: rgba(255, 255, 255, .5);
@@ -45,6 +23,29 @@
 	font-family: 'Cabin', sans-serif;
 	border-radius: 0;
 	box-shadow: rgba(0, 0, 0, 0);
+}
+
+.typeWindows-1za-n7 {
+	position: relative
+}
+
+.wordmark-2iDDfm {
+	display: flex;
+	align-items: center;
+	padding: 0 6px;
+	height: calc(100% + 4px);
+	top: -4px;
+	width: fit-content;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.wordmark-2iDDfm>svg {
+	display: none
+}
+
+.wordmark-2iDDfm:after {
+	content: 'SlimDark'
 }
 
 svg {
