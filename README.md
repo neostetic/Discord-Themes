@@ -6,8 +6,9 @@
 
 
 ### working on
-- easy customability
+- easy customization
 - changing colors
+- custom Discord Title
 
 ### version 1.0
 - basic design done
