@@ -20,19 +20,6 @@
                                                                                             
 */
 
-/* Customize Colors */
-/* ---------------- */
-
-@import url('https://raw.githubusercontent.com/neostetic/Discord-Themes/main/SlimDark.theme.css');
-:root {
-  	--transparent: #151515;                   /* Background Color           */
-	--text-normal: rgba(255, 255, 255, .67);  /* Text Color                 */
-	--background-floating: #121212;           /* Floating Background Color  */
-}
-
-/* Other Piece of Code */
-/* ------------------- */
-
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 :root {
 	--channels-default: rgba(255, 255, 255, .5);
