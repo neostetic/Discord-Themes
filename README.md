@@ -6,7 +6,7 @@
 
 
 ### working on
-- firend list color
+- <s>firend list color</s>
 - easy customization
 - channels hover transition
 - <s>changing colors</s>
@@ -18,7 +18,7 @@
 - updated colors, backgrounds, ...
 - custom font from <a href="https://fonts.google.com/specimen/Cabin">fonts.google.com</a>
 
-### version 1.1
+### version 1.1 & 1.2
 - changing colors
 - custom Discord Title
-
+- friend list color
