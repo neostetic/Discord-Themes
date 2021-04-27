@@ -11,7 +11,7 @@
 - custom Discord Title
 
 ### version 1.0
-- basic design done
+- dark basic base design
 - added basic better side channel menu
 - updated colors, backgrounds, ...
 - custom font from <a href="https://fonts.google.com/specimen/Cabin">fonts.google.com</a>
