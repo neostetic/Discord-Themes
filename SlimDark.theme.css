@@ -70,8 +70,14 @@
 	display: none
 }
 
-.wordmark-2iDDfm:after {
+.wordmark-2iDDfm:before {
 	content: 'SlimDark'
+}
+
+.wordmark-2iDDfm:after {
+	content: 'by neostetic';
+	opacity: .3;
+	padding-left: 5px;
 }
 
 svg {
