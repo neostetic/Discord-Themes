@@ -22,3 +22,6 @@
 - changing colors
 - custom Discord Title
 - friend list color
+
+### version 1.3
+- COMING SOON
