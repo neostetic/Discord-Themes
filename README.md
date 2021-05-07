@@ -7,7 +7,7 @@
 
 - <a href="https://github.com/neostetic/Discord-Themes#detail-shop-theme">Detail Shop Theme</a>
   - <a>Download</a>
-  - <a>Change Log</a>
+  - <a href="https://github.com/neostetic/Detail-Shop-Theme">Change Log</a>
 
 ## SlimDark
 
