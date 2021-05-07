@@ -15,7 +15,9 @@
 
 ## SlimDark
 
-<img src="https://i.imgur.com/gZug4Fu.png" width="32.9%"> <img src="https://i.imgur.com/759vNjl.png" width="32.9%"> <img src="https://i.imgur.com/HFZ7ie6.png" width="32.9%">
+<p align="center">
+  <img src="https://i.imgur.com/gZug4Fu.png" width="32.9%"> <img src="https://i.imgur.com/759vNjl.png" width="32.9%"> <img src="https://i.imgur.com/HFZ7ie6.png" width="32.9%">
+</p>
 <p align="center">
   Darker Slim Discord Theme.<br>
   Resized and Cutomized Icons and some Elements.
@@ -23,7 +25,9 @@
 
 ## Detail Shop Theme
 
-<img src="https://i.imgur.com/RVfn2ja.png" width="32.9%"> <img src="https://i.imgur.com/vMbM9Fn.png" width="32.9%"> <img src="https://i.imgur.com/JW3OmqM.png" width="32.9%">
+<p align="center">
+  <img src="https://i.imgur.com/RVfn2ja.png" width="32.9%"> <img src="https://i.imgur.com/vMbM9Fn.png" width="32.9%"> <img src="https://i.imgur.com/JW3OmqM.png" width="32.9%">
+</p>
 <p align="center">
   This is rework of some Elements in Discord independent on any other Themes.<br>
   Customizable Propeties and Size of Icons and other Elements.<br>
@@ -33,7 +37,9 @@
 
 ## Rounded Toolbar
 
-<img src="https://i.imgur.com/RVfn2ja.png" width="32.9%"> <img src="https://i.imgur.com/RVfn2ja.png" width="32.9%"> <img src="https://i.imgur.com/RVfn2ja.png" width="32.9%">
+<p align="center">
+  <img src="https://i.imgur.com/RVfn2ja.png" width="32.9%"> <img src="https://i.imgur.com/RVfn2ja.png" width="32.9%"> <img src="https://i.imgur.com/RVfn2ja.png" width="32.9%">
+</p>
 <p align="center">
   Rounded Icons Bar.<br>
   Simple as that. I am out of ideas what to write.
