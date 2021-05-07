@@ -1,7 +1,7 @@
 # Discord-Themes
 ## Menu
 - <a href="https://github.com/neostetic/Discord-Themes#slimdark">SlimDark</a>
-  - <a href="https://github.com/neostetic/SlimDark/">Download</a>
+  - <a href="https://github.com/neostetic/SlimDark/releases">Download</a>
   - <a href="https://github.com/neostetic/SlimDark/README.md">Change Log</a>
 <!--<img src="https://i.imgur.com/gZug4Fu.png" width="20%">-->
 
