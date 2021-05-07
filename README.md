@@ -1,11 +1,16 @@
 # Discord-Themes
+## Menu
 - <a href="https://github.com/neostetic/Discord-Themes#slimdark">SlimDark</a>
   - <a href="https://github.com/neostetic/Discord-Themes#slimdark">Download</a>
   - <a href="https://github.com/neostetic/Discord-Themes#slimdark">Change Log</a>
 
+<img src="https://i.imgur.com/RVfn2ja.png" width="20%">
+
 - <a href="https://github.com/neostetic/Discord-Themes#detail-shop-theme">Detail Shop Theme</a>
   - <a href="https://github.com/neostetic/Discord-Themes#detail-shop-theme">Download</a>
   - <a href="https://github.com/neostetic/Discord-Themes#detail-shop-theme">Change Log</a>
+
+<img src="https://i.imgur.com/gZug4Fu.png" width="20%">
 
 ## SlimDark
 - Simplistic dark mode theme for Discord
