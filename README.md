@@ -3,41 +3,18 @@
 - <a href="https://github.com/neostetic/Discord-Themes#slimdark">SlimDark</a>
   - <a href="https://github.com/neostetic/Discord-Themes#slimdark">Download</a>
   - <a href="https://github.com/neostetic/Discord-Themes#slimdark">Change Log</a>
-
-<img src="https://i.imgur.com/RVfn2ja.png" width="20%">
+<!--<img src="https://i.imgur.com/gZug4Fu.png" width="20%">-->
 
 - <a href="https://github.com/neostetic/Discord-Themes#detail-shop-theme">Detail Shop Theme</a>
   - <a href="https://github.com/neostetic/Discord-Themes#detail-shop-theme">Download</a>
   - <a href="https://github.com/neostetic/Discord-Themes#detail-shop-theme">Change Log</a>
 
-<img src="https://i.imgur.com/gZug4Fu.png" width="20%">
-
 ## SlimDark
-- Simplistic dark mode theme for Discord
 <img src="https://i.imgur.com/dT27D1H.png">
-
-
-### working on
-- <s>firend list color</s>
-- easy customization
-- channels hover transition
-- <s>changing colors</s>
-- <s>custom Discord Title</s>
-
-### version 1.0
-- dark basic base design
-- added basic better side channel menu
-- updated colors, backgrounds, ...
-- custom font from <a href="https://fonts.google.com/specimen/Cabin">fonts.google.com</a>
-
-### version 1.1 & 1.2
-- changing colors
-- custom Discord Title
-- friend list color
-
-### version 1.3
-- COMING SOON
-
+<p align="center">
+  Darker Slim Discord Theme.<br>
+  Resized and Cutomized Icons and some Elements.
+</p>
 
 ## Detail Shop Theme
 
