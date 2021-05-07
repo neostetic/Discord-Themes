@@ -6,8 +6,8 @@
 <!--<img src="https://i.imgur.com/gZug4Fu.png" width="20%">-->
 
 - <a href="https://github.com/neostetic/Discord-Themes#detail-shop-theme">Detail Shop Theme</a>
-  - <a href="https://github.com/neostetic/Discord-Themes#detail-shop-theme">Download</a>
-  - <a href="https://github.com/neostetic/Discord-Themes#detail-shop-theme">Change Log</a>
+  - <a>Download</a>
+  - <a>Change Log</a>
 
 ## SlimDark
 <img src="https://i.imgur.com/dT27D1H.png">
